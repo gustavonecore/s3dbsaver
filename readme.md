@@ -12,5 +12,3 @@
  3. Run the s3dbsaver.php
 
 	`php s3dbsaver.php --db-name={dbname} --db-user={dbuser} --db-pass={dbpass} --s3-bucket={s3_bucket}`
-
-Where S3 domain: should be the name of the S3 bucket.
